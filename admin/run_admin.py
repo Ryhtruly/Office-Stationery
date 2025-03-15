@@ -4,7 +4,7 @@ import sys
 from PyQt5.QtCore import pyqtSignal, Qt
 
 from admin_page import Ui_MainWindow
-from run_log import LoginWindow
+# from run_log import LoginWindow
 
 
 class AdminWindow(QMainWindow):
